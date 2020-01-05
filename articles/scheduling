@@ -1,5 +1,7 @@
 ## Scheduling
 
+![Image of Abstraction](https://raw.githubusercontent.com/HlaingTinHtun/Operating-System-For-Programmers/master/images/scheduling.png)
+
 ပုံမှန် process manager တွေကလုပ်နေတဲ့ activity တွေဖြစ်တဲ့ process ကို remove လုပ်တာတို့  process တစ်ခုပြီးသွားရင် နောက်တစ်ခုကို select လုပ်ပြီး run တာတို့ကို process scheduling လို့ခေါ်ပါတယ်။ process scheduling က OS တစ်ခုမှာ multi processing ကိုလုပ်ပေးနိုင်ဖို့အတွက်အရေးကြီးတဲ့ အစိတ်အပိုင်းတစ်ခုဖြစ်ပါတယ်။ ဘာလို့လဲဆိုတာကို ဆက်ဖတ်ကြည့်လိုက်ရအောင်။
 
 အရင် process article မှာတုန်းက PCB Block အကြောင်းတွေပြောထားပါတယ်၊ အဲ့ဒီ PCB တွေအားလုံးက OS က Process scheduling queue ထဲမှာသိမ်းထားပါတယ်။ ဘယ်လိုသိမ်းထားလည်းဆိုတော့ process တွေရဲ့ state ပေါ်မူတည်ပြီးသိမ်းပါတယ်၊ ဥပမာ waiting ဖြစ်နေတဲ့ process တွေဆို waiting queue, ready ဖြစ်နေတဲ့ process တွေဆို ready queue စသည်ဖြင့်အဲ့လို ခွဲပြီး သိမ်းထားပါတယ်။ process တစ်ခုရဲ့ state ပြောင်းသွားပြီဆိုတာနဲ့ အဲ့ဒီ process ရဲ့ PCB ဟာလက်ရှိ ရှိနေတဲ့ queue ကနေ သူရဲ့ state နဲ့ သက်ဆိုင်တဲ့ queue ထဲကို move လုပ်သွားပါတယ်၊ ဥပမာ ထပ်ပေးရရင် ready ဖြစ်နေတဲ့  process ရဲ့ PCB က ready ဆိုတဲ့ queue ထဲမှာရှိမယ်၊ process ရဲ့ state က ready ကနေ running ဖြစ်သွားပြီဆို သူ့ရဲ့ PCB က ready queue ကနေ unlink လုပ်ပြီးတော့ running queue ဆီသွားသိမ်းပါတယ်၊ ဒီလိုသဘောတရားမျိုးဖြစ်ပါတယ်။

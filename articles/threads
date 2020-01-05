@@ -1,5 +1,7 @@
 ## Threads
 
+![Image of Abstraction](https://raw.githubusercontent.com/HlaingTinHtun/Operating-System-For-Programmers/master/images/thread.png)
+
 အရင် article မှာတုန်းကတော့ process အကြောင်းကိုရေးသွားခဲ့ပါတယ်။ အဲ့ဒီ process ကနေပြီးတစ်ဆင့် execution ဖြစ်လာတဲ့ အရာတွေကို thread လို့ခေါ်ပါတယ်။ thread တိုင်းမှာ execute လုပ်ဖို့အတွက် program counter နဲ့ registers တွေပါဝင်ပါတယ်။ program counter , registers တွေအကြောင်းကို မသိသေးရင်တော့ processes ဆိုတဲ့ article ကိုအရင်သွားဖတ်သင့်ပါတယ်။
 
 Process ထဲမှာရှိတဲ့ thread တွေက singly (တစ်ကြိမ်မှာ thread တစ်ခု) လည်း run လို့ရသလို multi-threaded (တစ်ကြိမ်တည်းမှာ thread တစ်ခုထက်မက) လည်း run လို့ရပါတယ်။

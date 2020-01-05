@@ -1,8 +1,10 @@
 ## Processes
 
+![Image of Abstraction](https://raw.githubusercontent.com/HlaingTinHtun/Operating-System-For-Programmers/master/images/processes.jpg)
+
 Process ဆိုတာနဲ့ မိတ်ဆက်ပေးစရာတော့ တကူးတက မလိုလောက်ဘူးထင်ပါတယ်။ ရှင်းရှင်းနဲ့ ပြောရရင် program တစ်ခုကို run လိုက်တယ်ဆို process ဆိုတာဖြစ်လာတာပါပဲ။ code တွေရေးလိုက်တယ်၊ ပြီးရင် execute လုပ်လိုက်တယ်၊ အဲ့ကနေ process ဆိုတာဖြစ်လာပြီးတော့ ရေးထားတဲ့ program တွေထဲက code တွေအတွက် အလုပ်လိုက်လုပ်ပေးသွားတယ်။
 
-တစ်ကယ်တန်းတော့ ဒီထက်ပိုနက်နဲပါတယ်။ system memory ထဲကနေ program တစ်ခု run လိုက်လို့ process ဆိုတာဖြစ်လာတာနဲ့အတူ အဲ့ဒီ process က memory ထဲမှာ Stack, Heap, Text, Data ဆိုပြီး အပိုင်း ၄ ပိုင်းခွဲပြီး အလုပ်လုပ်ပါတယ်။ 
+တစ်ကယ်တန်းတော့ ဒီထက်ပိုနက်နဲပါတယ်။ system memory ထဲကနေ program တစ်ခု run လိုက်လို့ process ဆိုတာဖြစ်လာတာနဲ့အတူ အဲ့ဒီ process က memory ထဲမှာ Stack, Heap, Text, Data ဆိုပြီး အပိုင်း ၄ ပိုင်းခွဲပြီး အလုပ်လုပ်ပါတယ်။
 
 Stack က temporary data တွေအတွက် (ဥပမာ function ထဲမှာ သိမ်းထားတဲ့ variable တို့, parameters တို့)။
 Heap ကတော့ process run နိုင်ဖို့အတွက် allocate လုပ်ထားတဲ့ dynamic memory. Heap အကြောင်းကို data structures series မှာ ရေးထားပါတယ်။

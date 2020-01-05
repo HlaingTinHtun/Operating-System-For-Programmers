@@ -1,5 +1,7 @@
 ## Operating system မိတ်ဆက်
 
+![Image of Abstraction](https://raw.githubusercontent.com/HlaingTinHtun/Operating-System-For-Programmers/master/images/intro.png)
+
 OS လို့ခေါ်တဲ့ operating system ဆိုတာ ကျနော်တို့နဲ့ စိမ်းတဲ့ အရာတစ်ခုတော့ မဟုတ်ပါဘူး။ ကျနော်တို့နေ့တိုင်းလိုလို ထိတွေ့နေရတဲ့ အရာတစ်ခုဖြစ်ပါတယ်။ smartphone မှာဆိုလည်း android, ios . computer မှာဆိုရင်လည်း window, linux , mac စသည်ဖြင့် operating system တော်တော်များများနဲ့ ကျနော်တို့ နေ့စဉ်ထိတွေ့နေရတာပဲဖြစ်ပါတယ်။
 
 ကျနော်တို့နေ့စဉ် အသုံးပြုနေတဲ့ applications တွေ run နိုင်ဖို့အတွက် hardware resource တွေလိုအပ်တယ်။ Hardware ရှိယုံနဲ့လည်း တန်း run လို့မရသေးပါဘူး။ application programs တွေအဆင်ပြေပြေ run နိုင်ဖို့အတွက် Operating System လိုအပ်ပါတယ်။ တစ်နည်းအားဖြင့် ကျနော်တို့အသုံးပြုနေတဲ့ applications တွေနဲ့ hardware တွေကြားမှာ OS ရှိပါတယ်။ ဒီထက်ပိုပြီးရှင်းအောင်ပြောရရင် OS က hardware တွေကို manage လုပ်ပါတယ်။ ကျနော်တို့ အသုံးပြုနေတဲ့ applications တွေကို OS ပေါ်မှာ တင် run ပါတယ်။ ဥပမာ ကျနော် အခု Microsoft word သုံးနေတယ်။ Microsoft word ကနေတန်းပြီးတော့ directly hardware resource တွေပေါ် မကိုင်တွယ်ပါဘူး။ ကျနော်အသုံးပြုနေတဲ့ OS ကသာ word နဲ့ hardware resource တွေကြားထဲမှာ interface တစ်ခုအနေနဲ့ ရှိနေပြီး handling လုပ်ပေးနေတာပါ။
