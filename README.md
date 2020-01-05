@@ -1,4 +1,4 @@
-# Operation-System-For-Programmers
+# Operating-System-For-Programmers
 programmers တွေသိထားသင့်တဲ့ operating system နဲ့ပတ်သတ်တဲ့ article တွေကိုတင်ဆက်ပေးသွားမှာပဲဖြစ်ပါတယ်။
 
 ရေးပြီးသား ဆောင်းပါးတွေကို list လုပ်ပေးထားပါတယ်ခင်ဗျာ။
