@@ -23,3 +23,9 @@ http://bit.ly/37xHqq0
 
 ### Inter Process Communication
 http://bit.ly/2QmLWSy
+
+### I/O Management
+http://bit.ly/2OdWodK
+
+### Virtual Memory
+http://bit.ly/38Vi5Hw
