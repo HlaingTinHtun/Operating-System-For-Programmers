@@ -29,3 +29,6 @@ http://bit.ly/2OdWodK
 
 ### Virtual Memory
 http://bit.ly/38Vi5Hw
+
+### Conclusion
+http://bit.ly/2Uy2gTc
